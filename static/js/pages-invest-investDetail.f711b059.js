@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages-invest-investDetail"],{a503:function(i,n,e){"use strict";e.r(n);var o=e("828b"),s=Object(o["a"])({},void 0,void 0,!1,null,null,null,!1,void 0,void 0);n["default"]=s.exports}}]);
